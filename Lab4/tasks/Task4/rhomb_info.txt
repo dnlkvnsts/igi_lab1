@@ -1,0 +1,1 @@
+Figure: Rhomb | Color: BLUE | Side: 4.0 | Angle: 30.0 | Area: 8.0 | Number of figures: 1
